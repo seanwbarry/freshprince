@@ -1,0 +1,16 @@
+h1 {
+	color: red;
+
+}
+body {
+	background-color: green;
+
+}
+p {
+	font-family: "Open Sans";
+}
+div {
+	text-align: center;
+/*	this does nothing...
+	align: center;*/
+}
